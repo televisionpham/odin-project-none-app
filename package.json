@@ -1,0 +1,21 @@
+{
+  "name": "odin-project-none-app",
+  "version": "1.0.0",
+  "description": "The Odin Project: projects that do not have the UI",
+  "main": "binarySearchTrees.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/televisionpham/odin-project-none-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/televisionpham/odin-project-none-app/issues"
+  },
+  "homepage": "https://github.com/televisionpham/odin-project-none-app#readme"
+}
