@@ -2,7 +2,7 @@
   "name": "odin-project-none-app",
   "version": "1.0.0",
   "description": "The Odin Project: projects that do not have the UI",
-  "main": "binarySearchTrees.js",
+  "main": "knightTravails.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
